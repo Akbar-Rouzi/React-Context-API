@@ -1,9 +1,6 @@
+import Page from "./components/Page";
 function App() {
-  return (
-    <div className="App">
-     <h1>Learn React</h1>
-    </div>
-  );
+  return <Page />;
 }
 
 export default App;
